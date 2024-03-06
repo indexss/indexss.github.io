@@ -6,6 +6,18 @@
     <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <atom:link href="https://indexss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Wed, 06 Mar 2024 22:36:35 +0000</lastBuildDate>
+    <atom:link href="https://indexss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Talk</title>
+      <link>https://indexss.github.io/tags/small-talk/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      <guid>https://indexss.github.io/tags/small-talk/</guid>
+      <description></description>
+    </item>
+>>>>>>> bd5b951 (test12)
   </channel>
 </rss>

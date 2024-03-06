@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://indexss.github.io/</loc>
     <lastmod>2017-06-26T18:27:58+01:00</lastmod>
   </url><url>
@@ -9,5 +10,24 @@
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://indexss.github.io/tags/</loc>
+=======
+    <loc>https://indexss.github.io/quickstart/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+  </url><url>
+    <loc>https://indexss.github.io/tags/small-talk/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+  </url><url>
+    <loc>https://indexss.github.io/tags/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+  </url><url>
+    <loc>https://indexss.github.io/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+  </url><url>
+    <loc>https://indexss.github.io/about/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+  </url><url>
+    <loc>https://indexss.github.io/post/</loc>
+    <lastmod>2024-03-06T22:36:35+00:00</lastmod>
+>>>>>>> bd5b951 (test12)
   </url>
 </urlset>
