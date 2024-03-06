@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Cupper</title>
+    <link>https://indexss.github.io/post/</link>
+    <description>Recent content in Blog on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+
+    <atom:link href="https://indexss.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Start</title>
+      <link>https://indexss.github.io/quickstart/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      <guid>https://indexss.github.io/quickstart/</guid>
+      <description>这是一篇测试博文。&#xA;我的上一个博客，shilinli.com，由于域名续费太贵而没有续费，于是被投机者嗅探到，变成了一个垃圾小说网站，还给我发邮件威胁赎回，这也提醒我使用一个免费的博客服务。&#xA;免费服务第一个想到的肯定就是github page，提供免费的静态网页托管。我看到大多数人都在使用Hexo博客系统，但我选择了Hugo。主要的原因就是它的广告语：&#xA;“The world’s fastest framework for building websites”&#xA;Hugo 依靠Go语言进行开发，真的是快啊。&#xA;但它目前也有问题，Hugo提供了一个很棒的命令行命令来创建博文，但是他并没有提供命令去删除博文。你必须手动去删除你原来的博文，这一点比较烦。但其实这不是个大问题，毕竟我还是很少删文章的，能放到博客上面来也一定是写的比较好的内容。&#xA;This is a test blog post.&#xA;My previous blog, shilinli.com, was not renewed due to the expensive domain renewal fee. As a result, it was discovered by speculators and turned into a junk novel website. They even sent me threatening emails for redemption, which reminded me to use a free blogging service.&#xA;The first free service that came to mind was definitely GitHub Pages, which provides free static web hosting.</description>
+
+    </item>
+  </channel>
+</rss>
