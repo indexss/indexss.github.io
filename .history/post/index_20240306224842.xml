@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Cupper</title>
+    <link>https://indexss.github.io/post/</link>
+    <description>Recent content in Blog on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+<<<<<<< HEAD
+    <lastBuildDate>Mon, 28 Nov 2022 20:04:19 -0600</lastBuildDate>
+    <atom:link href="https://indexss.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heading Link Test</title>
+      <link>https://indexss.github.io/heading-link-test/</link>
+      <pubDate>Mon, 28 Nov 2022 20:04:19 -0600</pubDate>
+      <guid>https://indexss.github.io/heading-link-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/80.&#xA;This heading does not have a link Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&#xA;This heading does have a link Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    <item>
+      <title>cmd Test</title>
+      <link>https://indexss.github.io/cmd-test/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      <guid>https://indexss.github.io/cmd-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/42&#xA;Line 1 Line 2 Line 3 </description>
+    </item>
+    <item>
+      <title>Multiple Expandable Test</title>
+      <link>https://indexss.github.io/multiple-expandable-test/</link>
+      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      <guid>https://indexss.github.io/multiple-expandable-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.&#xA;expandable 1 Same inner text. expandable 2 Same inner text. expandable 3 Different inner text. </description>
+    </item>
+    <item>
+      <title>Special Character Test</title>
+      <link>https://indexss.github.io/special-character-test/</link>
+      <pubDate>Tue, 10 Sep 2019 20:26:08 -0500</pubDate>
+      <guid>https://indexss.github.io/special-character-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/16&#xA;Cette phrase prononcée par Greta Thunberg</description>
+    </item>
+    <item>
+      <title>Katex Math Typesetting</title>
+      <link>https://indexss.github.io/katex-math-typesetting/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://indexss.github.io/katex-math-typesetting/</guid>
+      <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.&#xA;Note: Use the online reference of supported TeX functions.&#xA;Some math:&#xA;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&#xD;$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$&#xA;More math:&#xA;$$&#xD;\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$&#xD;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
+    </item>
+    <item>
+      <title>Cupper Typography</title>
+      <link>https://indexss.github.io/cupper-typography/</link>
+      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      <guid>https://indexss.github.io/cupper-typography/</guid>
+      <description>Headings ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ _You **can** combine them_ This text will be italic&#xA;This will also be italic&#xA;This text will be bold&#xA;This will also be bold</description>
+    </item>
+    <item>
+      <title>Cupper Shortcodes</title>
+      <link>https://indexss.github.io/cupper-shortcodes/</link>
+      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      <guid>https://indexss.github.io/cupper-shortcodes/</guid>
+      <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. {{&amp;lt; /blockquote &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
+    </item>
+    <item>
+      <title>NASA Images</title>
+      <link>https://indexss.github.io/nasa-images/</link>
+      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      <guid>https://indexss.github.io/nasa-images/</guid>
+      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.&#xA;The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits. The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
+    </item>
+    <item>
+      <title>Quotes by Carl Jung</title>
+      <link>https://indexss.github.io/quotes-by-carl-jung/</link>
+      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <guid>https://indexss.github.io/quotes-by-carl-jung/</guid>
+      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. &amp;mdash; Carl Jung The least of things with a meaning is worth more in life than the greatest of things without it. &amp;mdash; Carl Jung Who looks outside, dreams; who looks inside, awakes.</description>
+    </item>
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://indexss.github.io/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://indexss.github.io/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&#xA;We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://indexss.github.io/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://indexss.github.io/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://indexss.github.io/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://indexss.github.io/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+    </item>
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://indexss.github.io/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://indexss.github.io/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become&#xA;▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+=======
+    <atom:link href="https://indexss.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Start</title>
+      <link>https://indexss.github.io/quickstart/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      <guid>https://indexss.github.io/quickstart/</guid>
+      <description>这是一篇测试博文。&#xA;我的上一个博客，shilinli.com，由于域名续费太贵而没有续费，于是被投机者嗅探到，变成了一个垃圾小说网站，还给我发邮件威胁赎回，这也提醒我使用一个免费的博客服务。&#xA;免费服务第一个想到的肯定就是github page，提供免费的静态网页托管。我看到大多数人都在使用Hexo博客系统，但我选择了Hugo。主要的原因就是它的广告语：&#xA;“The world’s fastest framework for building websites”&#xA;Hugo 依靠Go语言进行开发，真的是快啊。&#xA;但它目前也有问题，Hugo提供了一个很棒的命令行命令来创建博文，但是他并没有提供命令去删除博文。你必须手动去删除你原来的博文，这一点比较烦。但其实这不是个大问题，毕竟我还是很少删文章的，能放到博客上面来也一定是写的比较好的内容。&#xA;This is a test blog post.&#xA;My previous blog, shilinli.com, was not renewed due to the expensive domain renewal fee. As a result, it was discovered by speculators and turned into a junk novel website. They even sent me threatening emails for redemption, which reminded me to use a free blogging service.&#xA;The first free service that came to mind was definitely GitHub Pages, which provides free static web hosting.</description>
+>>>>>>> bd5b951 (test12)
+    </item>
+  </channel>
+</rss>
