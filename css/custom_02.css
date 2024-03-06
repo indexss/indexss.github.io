@@ -1,0 +1,15 @@
+.your-custom-class-02 {
+  display: block;
+}
+
+html {
+  font-size: calc(1.1em); /* 从1.1em调整到1em */
+}
+
+html {
+  line-height: 1.4; /* 从1.5调整到1.4或更小 */
+}
+
+.main-and-footer > div {
+  max-width: 60rem; /* 从40rem调整到更大的值 */
+}
