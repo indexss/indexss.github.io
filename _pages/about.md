@@ -27,6 +27,9 @@ Before joining JHU, I received a dual degree in Computer Science: a BSc from the
 # 🔥 News
 - *2026.07*: &nbsp;We open-sourced [Isaac Sim Event Camera Plugin](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin), a high-rate event camera data simulation plugin in [Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), accelerated by motion-vector frame interpolation.
 
+# 📝 Publications
+Very soon. Really, very soon.
+
 # 🧩 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Isaac Sim Event Camera Plugin" width="100%"></div></div>
@@ -64,24 +67,6 @@ Before joining JHU, I received a dual degree in Computer Science: a BSc from the
 - A Spring Boot + Angular web application that augments Spotify with user-driven ratings, reviews, leaderboards, and social music discovery.
 </div>
 </div>
-
-<!--
-# 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
 
 # 🎖 Honors
 - *2023-2024* Dean's List, University of Birmingham
