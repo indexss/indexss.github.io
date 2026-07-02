@@ -67,6 +67,8 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - images/me-oval.png
+  - images/me.JPG
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
