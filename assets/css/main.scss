@@ -87,6 +87,28 @@
 
 }
 
+.paper-box.project-box--text-only {
+    .paper-box-text {
+        max-width: 100%;
+        padding-left: 0;
+    }
+}
+
+.page__content .about-greeting {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #f2f3f3;
+    font-size: 1.4em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.zh-name {
+    font-family: "Noto Serif SC", serif;
+    font-weight: 600;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

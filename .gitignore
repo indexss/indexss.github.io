@@ -1,3 +1,5 @@
 _site/
+vendor/
+.gems/
 push.sh
 .DS_Store

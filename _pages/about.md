@@ -17,16 +17,56 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<p class="about-greeting">👋 I'm Linli Shi <span class="zh-name">「史林立」</span></p>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a master's student at Johns Hopkins University, working with Prof. [Ziyun (Claude) Wang](https://ziyunclaudewang.github.io) in the [SPIKE Lab](https://github.com/spikelab-jhu). My current research interests include event-based vision, 3D vision, and robotics. I am also interested in large-scale machine learning and robotic manipulation.
+
+Before joining JHU, I received a dual degree in Computer Science: a BSc from the University of Birmingham and a BEng from Central South University. At the University of Birmingham, I worked with Prof. [Yihua Cheng](https://www.yihua.zone) on gaze estimation.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07*: &nbsp;We open-sourced [Isaac Sim Event Camera Plugin](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin), a high-rate event camera data simulation plugin in [Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), accelerated by motion-vector frame interpolation.
 
-# 📝 Publications 
+# 🧩 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Isaac Sim Event Camera Plugin" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Isaac Sim Event Camera Plugin**
+
+**Linli Shi**, Runjun Zhang, [Ziyun Wang](https://ziyunclaudewang.github.io)
+
+[**Code**](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin)
+- A high-rate event camera data simulation plugin in [Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), accelerated by motion-vector frame interpolation.
+</div>
+</div>
+
+<div class='paper-box project-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+**RTDNet: A Recurrent Network using Temporal Difference for Video Gaze Estimation**
+
+**Linli Shi**, [Yihua Cheng](https://www.yihua.zone)
+
+[**Code**](https://github.com/indexss/RTDNet)
+- A recurrent network leveraging a custom Temporal Difference Module and Point Distribution Alignment Loss for high-precision video gaze estimation.
+</div>
+</div>
+
+<div class='paper-box project-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+**Backseat**
+
+**Linli Shi**, Abigail Pain, Hao Li, Yunfan Song, Ella Gardner, Xuanwei Shi, Joe Penny
+
+[**Code**](https://github.com/indexss/Backseat)
+- A Spring Boot + Angular web application that augments Spotify with user-driven ratings, reviews, leaderboards, and social music discovery.
+</div>
+</div>
+
+<!--
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,18 +81,26 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors
+- *2023-2024* Dean's List, University of Birmingham
+- *2023, 2024* University of Birmingham Entrance Scholarship
+- ☕️ *2025.09* [SCA Brewing Intermediate](https://www.reyachcoffee.com/en/), Specialty Coffee Association
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01 - Now*, Johns Hopkins University, MSE Electrical and Computer Engineering
+- *2023.09 - 2025.06*, University of Birmingham, BSc Computer Science
+- *2021.09 - 2025.06*, Central South University, BEng Computer Science
 
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2025.01 - 2025.05*, Teaching Assistant of Team Project @ [UoB](https://github.com/uob-dbwp)
+- *2023.12 - 2024.01*, Software Engineer Intern @ [hibretOne-CIC](https://platform.hibretone.org)
+- *2022.09 - 2025.06*, Technical Consultant @ [Apple Lab (iOS Club), CSU](https://www.csuios.club)
+- ☕️ *2025.10 - 2025.12*, Barista @ [Seesaw Coffee](http://www.seesaw-coffee.cn), Taiyuan
