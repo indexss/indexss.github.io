@@ -40,7 +40,7 @@ Very soon. Really, very soon.
 
 **Isaac Sim Event Camera Plugin**
 
-**Linli Shi**, Runjun Zhang, [Ziyun Wang](https://ziyunclaudewang.github.io)
+**Linli Shi**, Ruijun Zhang, [Ziyun Wang](https://ziyunclaudewang.github.io)
 
 <a href="https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin">[<i class="fab fa-github"></i> <b>Code</b>]</a>
 - A high-rate event camera simulation plugin in [Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), generating fully-labeled event streams directly inside the physics simulator.
