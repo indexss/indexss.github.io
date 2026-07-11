@@ -7,8 +7,11 @@
 
 # Site Settings
 title                    : "Linli Shi"
-description              : ""
+description              : "Linli Shi is a master's student at Johns Hopkins University researching event-based vision, 3D vision, and robotics."
+url                      : "https://indexss.github.io"
+baseurl                  : ""
 repository               : "indexss/indexss.github.io"
+og_image                 : "/images/me_cube.jpg"
 google_scholar_stats_use_cdn : true
 
 # google analytics

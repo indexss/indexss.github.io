@@ -27,28 +27,29 @@ Outside research, I'm an SCA-certified barista and specialty coffee nerd ☕️.
 
 
 # 🔥 News
-- *2026.07*: &nbsp;We’re open-sourcing an [Isaac Sim Event Camera Plugin](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin): plug-and-play, real-time, and highly configurable.
+- **[2026-07]** ✨ [EVIS v1.0](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin) is now available, bringing HDR support, configurable sensor noise, motion blur, anti-aliasing controls, and a PyTorch dataloader for streamlined downstream training. See our [technical report](https://arxiv.org/abs/2607.08098) for details.
 
 
 # 📝 Publications
-Very soon. Really, very soon.
-
-# 🧩 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/simulator-small.gif' alt="Isaac Sim Event Camera Plugin" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Isaac Sim Event Camera Plugin**
+**EVIS: A Physics-Grounded Event Camera Plugin for NVIDIA Isaac Sim**
 
 **Linli Shi**, Ruijun Zhang, [Ziyun Wang](https://ziyunclaudewang.github.io)
 
-<a href="https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin">[<i class="fab fa-github"></i> <b>Code</b>]</a>
-- A high-rate event camera simulation plugin in [Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), generating fully-labeled event streams directly inside the physics simulator.
+*arXiv preprint, 2026*
 
-- Use motion vectors to interpolate frames, achieving real-time event generation.
-- Support sensor noise and motion blur models.
+<a href="https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin">[<img class="brand-icon" src="images/github.svg" alt=""> <b>Code</b>]</a>
+<a href="https://arxiv.org/abs/2607.08098">[<span class="paper-emoji">📄</span> <b>Paper</b>]</a>
+- A physics-grounded event camera simulation platform for [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac/sim?size=n_6_n&sort-field=featured&sort-direction=desc), bridging realistic event generation, controlled benchmarking, and downstream learning.
+- Supports event generation from linear intensity before gamma correction, realistic sensor noise, motion-blurred rendering, and anti-aliased rendering and warping.
+- Provides a PyTorch-native dataloader for multiple event representations, with evaluations on frame reconstruction, optical flow, and pose estimation.
 </div>
 </div>
+
+# 🧩 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/rtdnet.png' alt="RTDNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
