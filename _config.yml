@@ -70,6 +70,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - USAGE.md
   - images/me-oval.png
   - images/me.JPG
   - "*.sublime-project"
